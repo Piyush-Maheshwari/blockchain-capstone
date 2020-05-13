@@ -10,6 +10,9 @@ The capstone will build upon the knowledge you have gained in the course in orde
 2. One token is minted using proof.json given in the solution
 3. OpenSea marketplace has been setup for deployed contract & can be viewed at https://rinkeby.opensea.io/assets/0x03161db40a10db3d05722ab17785e71c8b84c0c6
 4. 1 property has been put for sale https://rinkeby.opensea.io/assets/0x03161db40a10db3d05722ab17785e71c8b84c0c6/101
+5. Abis
+   * SquareVerifier : [here](https://github.com/yashvadhvani/blockchain-capstone/blob/master/eth-contracts/build/contracts/SquareVerifier.json)
+   * SolnSquareVerifier: [here](https://github.com/yashvadhvani/blockchain-capstone/blob/master/eth-contracts/build/contracts/SolnSquareVerifier.json)
 
 # Test
 To run truffle tests: 
